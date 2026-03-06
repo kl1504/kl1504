@@ -16,8 +16,12 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kl1504&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<a href="https://github.com/kl1504">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kl1504&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kl1504&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kl1504&icon=0&color=0)](https://visitcount.itsvg.in)
