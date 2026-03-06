@@ -1,4 +1,4 @@
-## Hi there, I'm Kael 👋
+## Hi there, I'm Kael Bernard 👋
 
 # 💫 About Me:
 🤔 I'm exploring new technologies and development of software solutions. <br>🎓 1st year student at EPITECH (European Institute of Technology). <br>💼 I'm currently looking for opportunities. I enjoy learning and contributing in any way possible.<br>🌱 Interested in learning more about UX/UI, artificial intelligence and cloud architecture.<br>✍️ I play tennis, write and draw.<br>
