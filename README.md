@@ -15,11 +15,13 @@
 - 🌱 Interested in learning more about UX/UI, artificial intelligence and cloud architecture.
 - ✍️ I play tennis, write and draw.
 
+---
 
 ## 🧠 My Focus Areas
 - Full-Stack Development
 - AI/ML & Quantum Computing Researcher
 
+---
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -35,6 +37,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kl1504&theme=github_dark&radius=10" alt="kl1504's Activity Graph" />
 </p>
 
+---
 
 ## 🛠️ Languages & Tools
 
@@ -97,6 +100,8 @@
 ![Top language](https://stats.pphat.top/languages?username=kl1504)
 <br/>
 
+---
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/kael-essoh">
@@ -107,9 +112,12 @@
   </a>
 </p>
 
-## 💬 Quote
->                      "Success is the sum of small efforts, repeated day-in and day-out."
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+## 💬 Quote
+
+<div align="center">
+
+<img src="https://vercel.app" alt="Le succès est la somme de petits efforts, répétés jour après jour. — Robert Collier"/>
+
+</div>
