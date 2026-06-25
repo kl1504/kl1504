@@ -12,7 +12,7 @@
 
 ## 📌 About Me
 - 🤔 I'm exploring new technologies and development of software solutions.
-- 🎓 1st year student at EPITECH (European Institute of Technology).
+- 🎓 2nd year student at EPITECH (European Institute of Technology).
 - 💼 I'm currently looking for opportunities. I enjoy learning and contributing in any way possible.
 - 🌱 Interested in learning more about UX/UI, artificial intelligence and cloud architecture.
 - ✍️ I play tennis, write and draw.
