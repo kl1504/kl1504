@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kael Avande</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kael%20Avande&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=kl1504">
@@ -7,6 +7,8 @@
 </p>
 
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+
+---
 
 ## 📌 About Me
 - 🤔 I'm exploring new technologies and development of software solutions.
@@ -19,15 +21,14 @@
 
 ## 🧠 My Focus Areas
 - Full-Stack Development
-- AI/ML & Quantum Computing Researcher
+- AI/ML & Quantum Computing Research
+- Cybersecurity & Game Development
+- DevOps
 
 ---
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/kl1504">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kl1504&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="kl1504's GitHub Stats" />
-  </a>
   <img src="https://streak-stats.demolab.com/?user=kl1504&theme=github_dark&hide_border=true&cache_seconds=86400" alt="kl1504's GitHub Streak" width="49%" />
 </p>
 <p align="center">
@@ -56,7 +57,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
@@ -111,13 +111,7 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
-
----
-
-## 💬 Quote
-
-<div align="center">
-
-<img src="https://vercel.app" alt="Le succès est la somme de petits efforts, répétés jour après jour. — Robert Collier"/>
-
-</div>
+<
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
