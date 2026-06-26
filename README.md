@@ -27,6 +27,19 @@
 
 ---
 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kl1504&theme=github_dark&hide_border=true&cache_seconds=86400" alt="kl1504's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=kl1504&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kael Avande's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kl1504&theme=github_dark&radius=10" alt="kl1504's Activity Graph" />
+</p>
+
+---
+
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
