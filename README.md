@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kael%20Avande&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
 <a href="https://git.io/typing-svg">
@@ -57,9 +58,9 @@
 
 <h3 align="center">AI/LLMs</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="Langchain" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="OpenAI" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" alt="n8n" width="40" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="OpenAI" width="40" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="LangChain" width="40" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="n8n" width="40" />
 
 </p>
 
@@ -67,7 +68,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" alt="Scikit-learn" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" />&nbsp;&nbsp;
 
 </p>
