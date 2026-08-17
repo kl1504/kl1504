@@ -1,10 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kael%20Avande&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kael%20Avande&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer&descSize=18&descAlignY=55&textBg=false" alt="Kael Avande banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%F0%9F%A4%96+that+actually+do+things;Full+Stack+Developer+%F0%9F%9A%80+MERN+%7C+PostgreSQL+%7C+FastAPI;LangGraph+%7C+LangChain+%7C+RAG+Pipelines+%F0%9F%94%97;Turning+ideas+into+production-grade+systems+%E2%9A%A1" alt="Typing SVG" />
-</a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%F0%9F%A4%96+that+actually+do+things;Full+Stack+Developer+%F0%9F%9A%80+MERN+%7C+PostgreSQL+%7C+FastAPI;LangGraph+%7C+LangChain+%7C+RAG+Pipelines+%F0%9F%94%97;Turning+ideas+into+production-grade+systems+%E2%9A%A1" alt="Typing SVG" />
+  </a>
 </div>
 
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
@@ -53,26 +52,22 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="Rust" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" />
-
 </p>
 
 <h3 align="center">AI/LLMs</h3>
 <p align="center">
-  <img src="https://jsdelivr.net" alt="OpenAI" width="40" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="LangChain" width="40" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="n8n" width="40" />
-
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI" width="120" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C5C?logo=python&logoColor=white" alt="LangChain" width="130" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/n8n-44A2D4?logo=n8n&logoColor=white" alt="n8n" width="90" />
 </p>
 
 <h3 align="center">Computer Vision/ML</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" />&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="Scikit-learn" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" />&nbsp;&nbsp;
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" />
 </p>
-
 
 <h3 align="center">Frontend</h3>
 <p align="center">
@@ -82,7 +77,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
 </p>
 
 <h3 align="center">Backend</h3>
@@ -91,7 +85,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
-
 </p>
 
 <h3 align="center">Database</h3>
@@ -100,7 +93,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
-
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
@@ -109,7 +101,6 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
-
 </p>
 
 <h3 align="center">Tools</h3>
@@ -117,14 +108,13 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-
 </p>
 
 ---
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://linkedin/in/kael-essoh">
+  <a href="https://www.linkedin.com/in/kael-essoh">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:kael.avande@epitech.eu">
